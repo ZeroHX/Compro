@@ -1,9 +1,9 @@
 # Compro-EJUDGE
 Backup file in Computer Programming subject
 
-- [week1](https://github.com/ZeroHX/Compro/tree/master/week1)
-- [week2](https://github.com/ZeroHX/Compro/tree/master/week2)
-- [week3](https://github.com/ZeroHX/Compro/tree/master/week2)
+- [x] [week1](https://github.com/ZeroHX/Compro/tree/master/week1) - Introduction to computer program
+- [x] [week2](https://github.com/ZeroHX/Compro/tree/master/week2) - Basic components of a C program
+- [x] [week3](https://github.com/ZeroHX/Compro/tree/master/week2) - Expression
 
 ## Website
 - [ejudge](https://ejudge.it.kmitl.ac.th/course)
