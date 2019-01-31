@@ -3,6 +3,7 @@ Backup file in Computer Programming subject
 
 - [week1](https://github.com/ZeroHX/Compro/tree/master/week1)
 - [week2](https://github.com/ZeroHX/Compro/tree/master/week2)
+- [week3](https://github.com/ZeroHX/Compro/tree/master/week2)
 
 ## Website
 - [ejudge](https://ejudge.it.kmitl.ac.th/course)
