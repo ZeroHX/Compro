@@ -6,5 +6,5 @@ Jakkawan Intaratchaiyakij   61070023
 int main(){
     int isec;
     scanf("%d",& isec);
-    printf("%d s = %d d %d h %d m %d s", isec, (int) isec/86400, (int) (isec % 86400)/3600, (int) (isec % 3600)/60, (int) isec % 60);
+    printf("%d s = %d d %d h %d m %d s", isec, isec/86400, (isec % 86400)/3600, (isec % 3600)/60, isec % 60);
 }
