@@ -4,7 +4,6 @@ Jakkawan Intaratchaiyakij   61070023
 */
 #include <stdio.h>
 #include <string.h>
-
 int main(){
     int pow;
     char say[20];

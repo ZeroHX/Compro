@@ -13,12 +13,12 @@ int main(){
         if(islower(txt[i])){
             for(int l = 0; l < strlen(lower) ;l++){
                 if(lower[l] == txt[i]){
-                    if(l <= 4){
-                        printf("%c", lower[26+(l-5)]);
+                    if(l >= 21){
+                        printf("%c", lower[5-(26-l)]);
                         break;
                     }
                     else{
-                        printf("%c", lower[l-5]);
+                        printf("%c", lower[l+5]);
                         break;
                     }
                 }
@@ -27,12 +27,12 @@ int main(){
         else if(isupper(txt[i])){
             for(int u = 0; u < strlen(up) ;u++){
                 if(up[u] == txt[i]){
-                    if(u <= 4){
-                        printf("%c", up[26+(u-5)]);
+                    if(u >= 21){
+                        printf("%c", up[5-(26-u)]);
                         break;
                     }
                     else{
-                        printf("%c", up[u-5]);
+                        printf("%c", up[u+5]);
                         break;
                     }
                 }
