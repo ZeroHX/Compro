@@ -7,6 +7,7 @@ Backup file in Computer Programming subject
 - [x] [week4](https://github.com/ZeroHX/Compro/tree/master/week4) - Selection-making decisions (if...else...)
 - [x] [week5](https://github.com/ZeroHX/Compro/tree/master/week5) - Loop
 - [x] [week6](https://github.com/ZeroHX/Compro/tree/master/week6) - Array
+- [x] [week7](https://github.com/ZeroHX/Compro/tree/master/week7) - Function
 
 
 ## Website
