@@ -1,0 +1,21 @@
+James Johnson Male 21 59000001 4.00
+Debra Young Female 20 59070002 2.00
+Carolyn Taylor Male 21 59070019 3.90
+Samuel Bailey Female 22 59070021 1.5
+Sandra Morris Male 23 59070039 1.3
+Julia Reed Male 62 59070122 1.12
+Harold Parker Male 23 59070149 2.3
+Doris Clark Male 22 59070137 3.69
+Ralph Long Female 22 59070088 3.8
+Kimberly Ward Male 34 59070003 2.01
+Virginia Perry Female 43 59070004 2.02
+Helen Brown Female 51 59070005 2.03
+Jacqueline Martinez Female 12 59070006 2.04
+Ashley Lee Male 32 59070007 2.05
+Martin Ramirez Male 75 59070008 2.06
+Tammy Anderson Female 35 59070009 2.07
+Louise Hill Male 65 59070010 2.08
+Katherine Green Male 68 59070011 2.09
+Brandon Richardson Female 65 59070012 2.10
+Barbara Adams Male 56 59070111 2.11
+SURnaMe
