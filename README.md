@@ -8,6 +8,7 @@ Backup file in Computer Programming subject
 - [x] [week5](https://github.com/ZeroHX/Compro/tree/master/week5) - Loop
 - [x] [week6](https://github.com/ZeroHX/Compro/tree/master/week6) - Array
 - [x] [week7](https://github.com/ZeroHX/Compro/tree/master/week7) - Function
+- [x] [week8](https://github.com/ZeroHX/Compro/tree/master/week8 -final) - Struct
 
 
 ## Website
